@@ -1,0 +1,11 @@
+*{
+    background-color: aqua;
+    padding: 100px;
+    margin: 23px;
+    color: black;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
